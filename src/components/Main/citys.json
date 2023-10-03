@@ -1,0 +1,14 @@
+[
+    {
+        "citiName": "Kharkov",
+        "citiCharakteristik": "impressive",
+        "citizienceNumber": 1158485,
+        "square": "350,05 км²"
+    },
+    {
+        "citiName": "Kiev",
+        "citiCharakteristik": "not so bad",
+        "citizienceNumber": 2950702,
+        "square": "847,66 км²"
+    }
+]
