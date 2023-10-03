@@ -1,0 +1,19 @@
+[
+    {
+        "id": 0,
+        "linkTo": "/profile",
+        "title": "Profile",
+        "userNameProfile": "username",
+        "userType": "admin"
+    },
+    {
+        "id": 1,
+        "linkTo": "/news",
+        "title": "News"
+    },
+    {
+        "id": 2,
+        "linkTo": "/settings",
+        "title": "Settings"
+    }
+]
