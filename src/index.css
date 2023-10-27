@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 3em;
+    background-color: #cecece;
+}
+
+.counter {
+    width: 90%;
+    max-width: 500px;
+    margin: 20px auto;
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr;
+    grid-template-rows: 80px;
+    border-radius: 7px;
+    overflow: hidden;
+}
+
+button {
+    background-color: #767676;
+    font-size: inherit;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #535353;
+}
+
+.field {
+    background-color: #fff;
+    text-align: center;
+    line-height: 80px;
+    font-weight: bold;
+    color: #767676;
+}
